@@ -1,5 +1,7 @@
 # Uniswap V3 LP Survival Analysis
 
+![Kaplan-Meier Survival Curve of Celo's USDT/WETH LPs](celo_usdt_weth_survival_curve.png)
+
 A data pipeline and statistical analysis tool for studying the **retention behaviour of Liquidity Providers (LPs)** on Uniswap V3 CLAMM pools, with support for [Merkl](https://merkl.xyz) incentive campaigns.
 
 ## What it does
