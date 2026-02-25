@@ -1,0 +1,6 @@
+hypersync
+duckdb
+pandas
+numpy
+lifelines
+matplotlib
